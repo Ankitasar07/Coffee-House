@@ -107,4 +107,8 @@ footer{
 h3{
     text-align:center;
 }
-
+#cappuccino{
+    background-image: url("cappuccino.jpg");
+    background-size:contain;
+    background-repeat:no-repeat;
+}
