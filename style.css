@@ -12,7 +12,7 @@ a{
 #coffee{
     color:rgb(255, 10, 10);
     margin:400px;
-    font-family:"Lobster", 
+    font-family:"Cookie", 
     cursive;
     font-size: 25px;
 }
@@ -26,7 +26,8 @@ header{
 #my{
     padding-left:70px;
     padding-top:50px;
-    color:rgb(192, 12, 12);
+    color:rgb(238, 49, 12);
+    font-size:25px;
 }
 #name{
     padding-left:70px;
@@ -129,4 +130,16 @@ h3{
     background-image:url("espresso.jpg");
     background-size:contain;
     background-repeat:no-repeat;
+}
+.icons{
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.brands{
+    display:flex;
+    padding-left:680px;
+    margin-top:30px;
+    font-size:24px;
+    gap:20px;
 }
